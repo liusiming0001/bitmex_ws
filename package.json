@@ -1,0 +1,20 @@
+{
+  "name": "bitmex_ws",
+  "version": "1.0.0",
+  "description": "bitmex行情交易所服务",
+  "main": "index.js",
+  "dependencies": {
+    "_async-limiter@1.0.1@async-limiter": "^1.0.1",
+    "_events@3.0.0@events": "^3.0.0",
+    "_ws@7.1.2@ws": "^7.1.2",
+    "async-limiter": "^1.0.1",
+    "events": "^3.0.0",
+    "ws": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liusiming",
+  "license": "ISC"
+}
